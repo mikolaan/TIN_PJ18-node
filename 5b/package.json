@@ -1,0 +1,19 @@
+{
+  "name": "5b",
+  "version": "1.0.0",
+  "description": "This is exercise 5b from TIN course.",
+  "main": "5b.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TIN",
+    "5b"
+  ],
+  "author": "s13092",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mustache": "^3.0.1"
+  }
+}
